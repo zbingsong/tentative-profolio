@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.55b4651b.css",
+    "main.js": "/static/js/main.995661a5.js",
+    "static/js/787.7da95b79.chunk.js": "/static/js/787.7da95b79.chunk.js",
+    "static/media/event_browser.jpg": "/static/media/event_browser.088bb7fecb8459dbd5df.jpg",
+    "static/media/sonarqube.jpg": "/static/media/sonarqube.9d8af5d10b8dbe18c895.jpg",
+    "static/media/resume.pdf": "/static/media/resume.d55be2d04577c7cdabe8.pdf",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/logo.png": "/static/media/logo.9e9a2567c5c92dee34a9.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/petkeley.jpeg": "/static/media/petkeley.656fa92004f457dfdc6d.jpeg",
+    "static/media/kmsoft.png": "/static/media/kmsoft.a5c0584a643505c208f1.png",
+    "static/media/avatar.svg": "/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.55b4651b.css.map": "/static/css/main.55b4651b.css.map",
+    "main.995661a5.js.map": "/static/js/main.995661a5.js.map",
+    "787.7da95b79.chunk.js.map": "/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55b4651b.css",
+    "static/js/main.995661a5.js"
+  ]
+}
